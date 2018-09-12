@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Resizable from 're-resizable';
-import Highcharts from 'highcharts';
+import Highcharts from 'pan_zagloba';
 import {
   HighchartsChart, Chart, withHighcharts, XAxis, YAxis, Title, Subtitle, SplineSeries
 } from 'react-jsx-highcharts';

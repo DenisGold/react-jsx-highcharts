@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import highcharts from 'highcharts';
+import Highcharts from 'pan_zagloba';
 import { HighchartsChart, Chart, XAxis, YAxis, LineSeries, withHighcharts } from 'react-jsx-highcharts';
 
 class App extends Component {

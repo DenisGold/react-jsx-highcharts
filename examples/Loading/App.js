@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {
   HighchartsChart, withHighcharts, Title, Subtitle, XAxis, YAxis, LineSeries, Legend, Tooltip, Loading
 } from 'react-jsx-highcharts';
-import Highcharts from 'highcharts';
+import Highcharts from 'pan_zagloba';
 import mapValues from 'lodash/mapValues';
 import ExampleCode from '../utils/ExampleCode';
 import code from './exampleCode';

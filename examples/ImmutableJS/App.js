@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Highcharts from 'highcharts';
+import Highcharts from 'pan_zagloba';
 import Immutable from 'immutable';
 import {
   HighchartsChart, Chart, withHighcharts, XAxis, YAxis, Title, Subtitle, Legend, LineSeries

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {
   HighchartsSparkline, withHighcharts, AreaSeries, Tooltip
 } from 'react-jsx-highcharts';
-import Highcharts from 'highcharts';
+import Highcharts from 'pan_zagloba';
 import mapValues from 'lodash/mapValues';
 import ExampleCode from '../utils/ExampleCode';
 import code from './exampleCode';

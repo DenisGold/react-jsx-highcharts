@@ -194,7 +194,7 @@ import Highcharts from 'highcharts/highstock';
 You likely need to add an extra Highcharts module to support the requested series type. This is usually `highcharts-more`.
 
 ```js
-import Highcharts from 'highcharts';
+import Highcharts from 'pan_zagloba';
 import addHighchartsMore from 'highcharts/highcharts-more';
 
 addHighchartsMore(Highcharts);
@@ -203,7 +203,7 @@ addHighchartsMore(Highcharts);
 Alternatively it may be the Heatmap, Treemap, Sankey, [or one of these](https://github.com/highcharts/highcharts/tree/master/js/modules) extra modules.
 
 ```js
-import Highcharts from 'highcharts';
+import Highcharts from 'pan_zagloba';
 import addHeatmapModule from 'highcharts/modules/heatmap';
 import addTreemapModule from 'highcharts/modules/treemap';
 

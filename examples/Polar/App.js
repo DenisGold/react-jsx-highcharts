@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Highcharts from 'highcharts';
+import Highcharts from 'pan_zagloba';
 import {
   HighchartsChart, withHighcharts, XAxis, YAxis, Title, Pane, ColumnSeries, LineSeries, AreaSeries
 } from 'react-jsx-highcharts';
@@ -22,7 +22,7 @@ const labelFormatter = function () { return this.value + '°'; }
 const App = () => (
   <div className="app">
     <HighchartsChart polar plotOptions={plotOptions}>
-      <Title>Highcharts Polar Chart</Title>
+      <Title>Highchartsd Polar Chart</Title>
 
       <Pane startAngle={0} endAngle={360} />
 
