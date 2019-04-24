@@ -6,7 +6,7 @@
   "scripts": {
     "build:examples": "./node_modules/.bin/webpack --config webpack.config.js"
   },
-  "author": "Will Hawker",
+  "author": "Will Hawkers",
   "license": "MIT",
   "repository": {
     "type": "git",
