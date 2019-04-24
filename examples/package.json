@@ -1,7 +1,7 @@
 {
   "name": "react-jsx-highcharts-examples",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Highcharts charts built using React components - examples",
   "scripts": {
     "build:examples": "./node_modules/.bin/webpack --config webpack.config.js"
